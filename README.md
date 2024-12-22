@@ -1,17 +1,17 @@
 # Resume Screening
 The project leverages machine learning algorithms and TF-IDF vectorization to extract features from resumes and classify them into predefined categories. The system aims to reduce manual effort, save time, and improve recruitment efficiency.
 #Features : 
-.Job Role Prediction: Classifies resumes into relevant job roles.
-.TF-IDF Feature Extraction: Processes textual data to extract meaningful features.
-.Random Forest Classifier: Provides the highest accuracy model for predictions.
--Preprocessing Pipeline: Cleans and preprocesses resume text data.
+1. Job Role Prediction: Classifies resumes into relevant job roles.
+2. TF-IDF Feature Extraction: Processes textual data to extract meaningful features.
+3. Random Forest Classifier: Provides the highest accuracy model for predictions.
+4. Preprocessing Pipeline: Cleans and preprocesses resume text data.
 # Technologies Used
--Python 3
--Natural Language Processing (NLP)
--Scikit-learn for machine learning models
--Pandas and NumPy for data manipulation
--Joblib for model saving and loading
--Jupyter Notebook/Google Colab for development and testing
+-Python 3 <br>
+-Natural Language Processing (NLP)<br>
+-Scikit-learn for machine learning models<br>
+-Pandas and NumPy for data manipulation<br>
+-Joblib for model saving and loading<br>
+-Jupyter Notebook/Google Colab for development and testing<br>
 # Dataset
 -The dataset consists of resumes labeled with job roles.
 -Each resume is represented as a text string.
